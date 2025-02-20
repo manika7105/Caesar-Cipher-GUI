@@ -17,10 +17,10 @@ This is a Python-based application that allows users to encrypt and decrypt text
 ## How to Use
 
 1.  **Clone the repository:**
-    https://github.com/manika7105/Caesar-Cipher-GUI.git
+    git clone https://github.com/manika7105/Caesar-Cipher-GUI.git
 
 2.  **Run the application:**
-    Encrypt-Decrypt.py
+    python Encrypt-Decrypt.py
 
 3.  **Enter your message:** Type the text you want to encrypt or decrypt into the "Enter the Message" field.
 
