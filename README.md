@@ -1,4 +1,4 @@
-# Caesar-Cipher-GUI
+# Caesar-Cipher
 Encrypt and decrypt messages with a custom cipher algorithm. Includes a user-friendly GUI built with Tkinter.
 
 # Encryption/Decryption Tool
